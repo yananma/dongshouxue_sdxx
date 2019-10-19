@@ -21,3 +21,13 @@ Coding  Everyday
 5、铆足了劲儿学 PyTorch，还好是现在，如果是学完 tf，耽误多少精力？再学 PyTorch 该有多不习惯？
 
 6、dark mode，很幸运，保护眼睛。
+
+
+import torch 
+import torch.nn as nn 
+import torchvision 
+import torchvision.transforms as transforms 
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt 
+%matplotlib inline 
