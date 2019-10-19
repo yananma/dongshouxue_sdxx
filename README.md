@@ -1,4 +1,4 @@
-193 天，10 万行代码。现在一个问题也解决不了。
+192 天，10 万行代码。现在一个问题也解决不了。
 
 Coding  Everyday
 
@@ -22,19 +22,3 @@ Coding  Everyday
 
 6、dark mode，很幸运，保护眼睛。
 
-
-import torch 
-
-import torch.nn as nn 
-
-import torchvision 
-
-import torchvision.transforms as transforms 
-
-import numpy as np 
-
-import pandas as pd 
-
-import matplotlib.pyplot as plt 
-
-%matplotlib inline 
