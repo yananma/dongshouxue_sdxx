@@ -2,6 +2,9 @@
 # Figure out what works and keep doing it.  
 
 ### 原则
+0、重复练习，永远错不了，极其有效  
+restful 文档，敲到第 3 遍就知道在干什么了  
+
 
 
 1、5 分钟工作法和番茄 ToDo 极其有效，可以取得像马斯克一样的成就  
