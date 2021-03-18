@@ -2,8 +2,9 @@
 # Figure out what works and keep doing it.  
 
 ### 原则
-0、重复练习，永远错不了，极其有效  
+0、重复练习，永远错不了，极其有效，就可劲儿练去吧  
 restful 文档，敲到第 3 遍就知道在干什么了  
+Nginx 三年了都一直不熟悉，敲了 6 遍代码就明白了  
 
 
 
